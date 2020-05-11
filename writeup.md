@@ -55,7 +55,7 @@ We calculated the mean absolute error of the heart rate estimation and the groun
 
 For cross validation I used the `LeaveOneGroupOut()` or `KFold` cross vilidation.
 
-The error rate was around 8 BPM on the test set.  Since the data is using only limited subjects the algorithm may not be able to generalize well.
+The error rate was around 10 BPM on the test set.  Since the data is using only limited subjects the algorithm may not be able to generalize well.
 
 
 
